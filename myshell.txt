@@ -6,3 +6,5 @@ fork():
 https://www.geeksforgeeks.org/fork-system-call/
 exec family:
 https://linux.die.net/man/3/execlp
+signals:
+http://pubs.opengroup.org/onlinepubs/009604499/functions/sigaction.html
