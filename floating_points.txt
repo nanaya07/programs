@@ -1,0 +1,3 @@
+https://ko.wikipedia.org/wiki/%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90
+https://en.wikipedia.org/wiki/IEEE_754
+https://floating-point-gui.de/formats/fp/
