@@ -1,0 +1,9 @@
+greedy algorithm:
+https://en.wikipedia.org/wiki/Greedy_algorithm
+
+Dynamic programming:
+https://en.wikipedia.org/wiki/Dynamic_programming
+
+Dijkstra algorithm:
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+https://www.programiz.com/dsa/dijkstra-algorithm
