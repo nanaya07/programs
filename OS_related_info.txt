@@ -1,0 +1,5 @@
+Machine ----------- OS (operating system) ---------- Application
+          kernal mode|User mode (system call: context switch)
+CPU   ------------ Process - 
+RAM   ------------ Memory -
+DISK  ---------- File system -
