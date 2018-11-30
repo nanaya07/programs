@@ -1,0 +1,20 @@
+in declaring part,
+
+int *x -> int pointer x
+
+other language (Java)
+int& x -> int pointer x
+---------------------------------------------
+in parameter part,
+
+int *n -> int pointer n
+vector<int>& v -> int vector point v
+--------------------------------------------
+in usage part,
+*x => value from address x
+&x -> address of x
+
+int* x ----------> x is address ------------> *x ---------> value from address x
+
+int **x -------> int pointer x of address --------->*x -----------> address x (pointer)
+
